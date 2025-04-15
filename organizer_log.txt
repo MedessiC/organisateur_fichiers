@@ -1,0 +1,73 @@
+2025-04-15 02:59:35,900 - INFO - Début de l'organisation du dossier: C:\Users\Medessi Cvi\Desktop\TT\Vidéos
+2025-04-15 02:59:35,900 - INFO - Renommage des fichiers...
+2025-04-15 02:59:36,441 - INFO - 44 fichiers renommés
+2025-04-15 02:59:36,442 - INFO - Organisation terminée!
+2025-04-15 03:08:38,641 - INFO - Début de l'organisation du dossier: C:\Users\Medessi Cvi\Desktop\TT\Vidéos
+2025-04-15 03:08:38,641 - INFO - Classification par date...
+2025-04-15 03:08:38,641 - INFO - Dossier créé: C:\Users\Medessi Cvi\Desktop\TT\Vidéos\2023\05-May
+2025-04-15 03:08:39,048 - INFO - Dossier créé: C:\Users\Medessi Cvi\Desktop\TT\Vidéos\2025\02-February
+2025-04-15 03:08:39,145 - INFO - Dossier créé: C:\Users\Medessi Cvi\Desktop\TT\Vidéos\2025\04-April
+2025-04-15 03:08:39,194 - INFO - 44 fichiers traités par date
+2025-04-15 03:08:39,195 - INFO - Organisation terminée!
+2025-04-15 03:11:45,400 - INFO - Début de l'organisation du dossier: C:\Users\Medessi Cvi\Desktop\TT\Documents
+2025-04-15 03:11:45,400 - INFO - Classification par date...
+2025-04-15 03:11:45,400 - INFO - Dossier créé: C:\Users\Medessi Cvi\Desktop\TT\Documents\2023\09-September
+2025-04-15 03:11:45,430 - INFO - Dossier créé: C:\Users\Medessi Cvi\Desktop\TT\Documents\2023\08-August
+2025-04-15 03:11:45,434 - INFO - Dossier créé: C:\Users\Medessi Cvi\Desktop\TT\Documents\2023\10-October
+2025-04-15 03:11:45,561 - INFO - Dossier créé: C:\Users\Medessi Cvi\Desktop\TT\Documents\2024\11-November
+2025-04-15 03:11:45,567 - INFO - Dossier créé: C:\Users\Medessi Cvi\Desktop\TT\Documents\2024\12-December
+2025-04-15 03:11:45,680 - INFO - Dossier créé: C:\Users\Medessi Cvi\Desktop\TT\Documents\2025\04-April
+2025-04-15 03:11:45,702 - INFO - 29 fichiers traités par date
+2025-04-15 03:11:45,702 - INFO - Organisation terminée!
+2025-04-15 03:36:00,385 - INFO - Début de l'organisation du dossier: C:\Users\Medessi Cvi\Desktop\TT\Documents
+2025-04-15 03:36:00,385 - INFO - Classification par date...
+2025-04-15 03:36:00,385 - INFO - 0 fichiers traités par date
+2025-04-15 03:36:00,385 - INFO - Organisation terminée!
+2025-04-15 03:43:01,601 - INFO - Début de l'organisation du dossier: C:\Users\Medessi Cvi\Desktop
+2025-04-15 03:43:01,827 - INFO - MODE SIMULATION ACTIVÉ - Aucune action ne sera réellement effectuée
+2025-04-15 03:43:01,827 - INFO - Classification par type...
+2025-04-15 03:43:07,030 - INFO - 0 fichiers traités par type
+2025-04-15 03:43:07,031 - INFO - Organisation terminée!
+2025-04-15 03:43:55,432 - INFO - Début de l'organisation du dossier: C:\Users\Medessi Cvi\Desktop
+2025-04-15 03:43:55,432 - INFO - Classification par type...
+2025-04-15 03:43:55,705 - INFO - Dossier créé: C:\Users\Medessi Cvi\Desktop\Autres
+2025-04-15 03:43:55,855 - INFO - 26 fichiers traités par type
+2025-04-15 03:43:55,855 - INFO - Organisation terminée!
+2025-04-15 03:46:42,133 - INFO - Début de l'organisation du dossier: C:\Users\Medessi Cvi\Desktop\Documents
+2025-04-15 03:46:42,133 - INFO - Classification par date...
+2025-04-15 03:46:43,039 - INFO - Dossier créé: C:\Users\Medessi Cvi\Desktop\Documents\2025\03-March
+2025-04-15 03:46:43,416 - INFO - Dossier créé: C:\Users\Medessi Cvi\Desktop\Documents\2025\04-April
+2025-04-15 03:46:43,617 - INFO - Dossier créé: C:\Users\Medessi Cvi\Desktop\Documents\2024\02-February
+2025-04-15 03:46:43,630 - INFO - Dossier créé: C:\Users\Medessi Cvi\Desktop\Documents\2024\04-April
+2025-04-15 03:46:43,635 - INFO - Dossier créé: C:\Users\Medessi Cvi\Desktop\Documents\2023\09-September
+2025-04-15 03:46:43,646 - INFO - Dossier créé: C:\Users\Medessi Cvi\Desktop\Documents\2022\12-December
+2025-04-15 03:46:43,693 - INFO - Dossier créé: C:\Users\Medessi Cvi\Desktop\Documents\2023\03-March
+2025-04-15 03:46:43,710 - INFO - Dossier créé: C:\Users\Medessi Cvi\Desktop\Documents\2024\01-January
+2025-04-15 03:46:43,754 - INFO - 34 fichiers traités par date
+2025-04-15 03:46:43,754 - INFO - Organisation terminée!
+2025-04-15 04:08:20,460 - INFO - Début de l'organisation du dossier: C:\Users\Medessi Cvi\Desktop\TT\Images
+2025-04-15 04:08:20,461 - INFO - Classification par date...
+2025-04-15 04:08:20,464 - INFO - Dossier créé: C:\Users\Medessi Cvi\Desktop\TT\Images\2025\04-April
+2025-04-15 04:08:20,572 - INFO - 5 fichiers traités par date
+2025-04-15 04:08:20,572 - INFO - Organisation terminée!
+2025-04-15 17:25:58,601 - INFO - Dossier créé: C:\Users\Medessi Cvi\Desktop\Vivtontine\Autres
+2025-04-15 17:25:58,655 - INFO - Dossier créé: C:\Users\Medessi Cvi\Desktop\Vivtontine\Images
+2025-04-15 17:25:58,794 - INFO - Doublon trouvé : C:\Users\Medessi Cvi\Desktop\Vivtontine\Autres\javascript.js (identique à C:\Users\Medessi Cvi\Desktop\Vivtontine\Autres\javaa.js)
+2025-04-15 17:25:58,803 - INFO - Supprimé: C:\Users\Medessi Cvi\Desktop\Vivtontine\Autres\javascript.js
+2025-04-15 17:25:58,838 - INFO - Doublon trouvé : C:\Users\Medessi Cvi\Desktop\Vivtontine\Templates\ulrs.py (identique à C:\Users\Medessi Cvi\Desktop\Vivtontine\Autres\traitement.php)
+2025-04-15 17:25:58,860 - INFO - Supprimé: C:\Users\Medessi Cvi\Desktop\Vivtontine\Templates\ulrs.py
+2025-04-15 17:25:58,887 - INFO - Doublon trouvé : C:\Users\Medessi Cvi\Desktop\Vivtontine\Templates\wsgi.py (identique à C:\Users\Medessi Cvi\Desktop\Vivtontine\Autres\traitement.php)
+2025-04-15 17:25:58,889 - INFO - Supprimé: C:\Users\Medessi Cvi\Desktop\Vivtontine\Templates\wsgi.py
+2025-04-15 17:25:58,891 - INFO - Doublon trouvé : C:\Users\Medessi Cvi\Desktop\Vivtontine\Templates\__init__.py (identique à C:\Users\Medessi Cvi\Desktop\Vivtontine\Autres\traitement.php)
+2025-04-15 17:25:58,892 - INFO - Supprimé: C:\Users\Medessi Cvi\Desktop\Vivtontine\Templates\__init__.py
+2025-04-15 17:25:58,892 - INFO - 4 doublon(s) supprimé(s) sur 15 fichiers traités.
+2025-04-15 17:26:29,964 - INFO - 0 doublon(s) supprimé(s) sur 11 fichiers traités.
+2025-04-15 17:31:31,840 - ERROR - Erreur lors du hash du fichier C:\Users\Medessi Cvi\Desktop\Vivtontine\3d-avtomobil-kontsept-trekhmernii-setka-106288.jpeg : [Errno 13] Permission denied: 'C:\\Users\\Medessi Cvi\\Desktop\\Vivtontine\\3d-avtomobil-kontsept-trekhmernii-setka-106288.jpeg'
+2025-04-15 17:31:31,840 - INFO - 0 doublon(s) supprimé(s) sur 13 fichiers traités.
+2025-04-15 17:34:33,873 - INFO - Doublon trouvé : C:\Users\Medessi Cvi\Desktop\Vivtontine\Images\3d-avtomobil-kontsept-trekhmernii-setka-106288.jpeg (identique à C:\Users\Medessi Cvi\Desktop\Vivtontine\Images\3d-avtomobil-kontsept-trekhmernii-setka-106288 - Copie.jpeg)
+2025-04-15 17:34:33,967 - INFO - Supprimé: C:\Users\Medessi Cvi\Desktop\Vivtontine\Images\3d-avtomobil-kontsept-trekhmernii-setka-106288.jpeg
+2025-04-15 17:34:34,201 - INFO - Doublon trouvé : C:\Users\Medessi Cvi\Desktop\Vivtontine\Images\3d-lampa-rozetka-ideya-elektrichestvo-155370.jpeg (identique à C:\Users\Medessi Cvi\Desktop\Vivtontine\3d-lampa-rozetka-ideya-elektrichestvo-155370 - Copie.jpeg)
+2025-04-15 17:34:34,435 - INFO - Supprimé: C:\Users\Medessi Cvi\Desktop\Vivtontine\Images\3d-lampa-rozetka-ideya-elektrichestvo-155370.jpeg
+2025-04-15 17:34:34,451 - INFO - Doublon trouvé : C:\Users\Medessi Cvi\Desktop\Vivtontine\Images\3d-skhema-chip-detal-metall-kompyuter-makro-57513.jpeg (identique à C:\Users\Medessi Cvi\Desktop\Vivtontine\3d-skhema-chip-detal-metall-kompyuter-makro-57513 - Copie.jpeg)
+2025-04-15 17:34:34,451 - INFO - Supprimé: C:\Users\Medessi Cvi\Desktop\Vivtontine\Images\3d-skhema-chip-detal-metall-kompyuter-makro-57513.jpeg
+2025-04-15 17:34:34,560 - INFO - 3 doublon(s) supprimé(s) sur 30 fichiers traités.
