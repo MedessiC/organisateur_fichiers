@@ -1,0 +1,22 @@
+[2025-04-27 04:33:11] [INFO] [undo_redo] Action annulée: Déplacement, C:/Users/Medessi Cvi/Desktop/test\Vidéos\WhatsApp Vidéo 2023-07-17 à 12.21.25.mp4 → C:/Users/Medessi Cvi/Desktop/test\WhatsApp Vidéo 2023-07-17 à 12.21.25.mp4
+[2025-04-27 04:33:11] [INFO] [history] Historique sauvegardé avec succès.
+[2025-04-27 05:45:22] [INFO] [starts] 🔍 Début de l'analyse avancée du disque à partir de : C:\
+[2025-04-27 05:45:22] [INFO] [starts] Configuration: 4 threads, profondeur max: illimitée
+[2025-04-27 05:52:02] [INFO] [starts] 🔍 Début de l'analyse avancée du disque à partir de : C:\Users\Medessi Cvi\Desktop\Livre
+[2025-04-27 05:52:02] [INFO] [starts] Configuration: 4 threads, profondeur max: illimitée
+[2025-04-27 05:52:02] [INFO] [starts] Énumération terminée: 79 fichiers trouvés à analyser
+[2025-04-27 05:52:04] [INFO] [starts] ✅ Analyse terminée en 1.26 secondes.
+[2025-04-27 05:52:04] [INFO] [starts] Total analysé: 79 fichiers, 6.2 GB
+[2025-04-27 05:52:04] [INFO] [starts] Génération du rapport HTML: rapport_disque.html
+[2025-04-27 05:52:04] [INFO] [starts] Génération des graphiques dans graphiques_stats
+[2025-04-27 05:52:12] [INFO] [starts] ✅ Graphiques générés avec succès dans le dossier graphiques_stats
+[2025-04-27 05:52:12] [INFO] [starts] ✅ Rapport HTML généré avec succès: C:\Users\Medessi Cvi\Desktop\organisateur_fichiers\rapport_disque.html
+[2025-04-27 10:43:52] [INFO] [starts] 🔍 Début de l'analyse avancée du disque à partir de : C:\Users\Medessi Cvi\Desktop\Livre
+[2025-04-27 10:43:52] [INFO] [starts] Configuration: 4 threads, profondeur max: illimitée
+[2025-04-27 10:43:52] [INFO] [starts] Énumération terminée: 79 fichiers trouvés à analyser
+[2025-04-27 10:43:53] [INFO] [starts] ✅ Analyse terminée en 1.48 secondes.
+[2025-04-27 10:43:53] [INFO] [starts] Total analysé: 79 fichiers, 6.2 GB
+[2025-04-27 10:43:53] [INFO] [starts] Génération du rapport HTML: rapport_disque.html
+[2025-04-27 10:43:53] [INFO] [starts] Génération des graphiques dans graphiques_stats
+[2025-04-27 10:44:01] [INFO] [starts] ✅ Graphiques générés avec succès dans le dossier graphiques_stats
+[2025-04-27 10:44:01] [INFO] [starts] ✅ Rapport HTML généré avec succès: C:\Users\Medessi Cvi\Desktop\organisateur_fichiers\rapport_disque.html
